@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TensorflowTypeProvider", "TensorflowTypeProvider\TensorflowTypeProvider.fsproj", "{BE830B83-96E9-4A54-8FC8-E1A4C7166F93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE830B83-96E9-4A54-8FC8-E1A4C7166F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE830B83-96E9-4A54-8FC8-E1A4C7166F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE830B83-96E9-4A54-8FC8-E1A4C7166F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE830B83-96E9-4A54-8FC8-E1A4C7166F93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {808E8DB2-BFD0-4B76-BDE2-D40DE9528925}
+	EndGlobalSection
+EndGlobal

@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Matthew Moloney</Authors>
+    <Company />
+    <Product>Tensorflow Type Provider</Product>
+    <Description>Provides typed access to Operations in a Tensorflow Graph in F#. This is useful for transfer learning and other operations which would typically require 'magic strings' that are often hard to find.</Description>
+    <PackageTags>Tensorflow FSharp TypeProvider</PackageTags>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
